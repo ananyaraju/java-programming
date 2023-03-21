@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class Throws_Example
 {
 static void Test_Length(String S)
